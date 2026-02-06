@@ -28,17 +28,10 @@ Audio Processing: Librosa, TensorFlow
 
 Data Engineering: Kafka, ETL Pipelines, PostgreSQL, MySQL
 
-Web & APIs: Flask, FastAPI, React.js, Node.js
-
 Scraping & Automation: Playwright, Selenium, Scrapy
 
 Operating Systems & IDEs: Linux, Docker, Colab, VS Code
 
-📊 GitHub Stats
-
-📬 Get in Touch
-
-LinkedIn: (Add your LinkedIn profile link here)
 
 🌐 Check Out My Work
 
