@@ -6,7 +6,21 @@ Data Scientist · Machine Learning Engineer
 
 I build systems that turn raw data into production-grade intelligence — from large-scale extraction pipelines to deep learning models deployed in real products. BS Computer Science, Sukkur IBA University.
 
-Currently a Data Scraping & Automation Engineer at **Betacodes (Forbmax)**, where I design distributed scraping and processing systems. Previously a Data Solutions Engineer at **Sybrid**, building ETL pipelines and optimizing SQL-based data systems.
+---
+
+### Experience
+
+**Data Scraping & Automation Engineer** — Betacodes (Forbmax), Islamabad · *Current*
+Designing distributed scraping and processing systems for large-scale data extraction.
+
+**Data Solutions Engineer** — Sybrid
+Built ETL pipelines and optimized SQL-based data systems.
+
+**Machine Learning Intern** — Elevvo (Egypt, Remote)
+
+**Data Science Intern** — Cognifyz Technologies (India, Remote)
+
+**Web Scraper** — Early-stage university startup, 4–6 person team
 
 ---
 
@@ -53,4 +67,4 @@ Lossless compression tool implementing efficient prefix-code encoding.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/toufeeque-ali-507b27258) · [ktoufeeque3@gmail.com])
+[LinkedIn](https://www.linkedin.com/in/toufeeque-ali-507b27258/) · [ktoufeeque3@gmail.com](mailto:ktoufeeque3@gmail.com)
