@@ -1,46 +1,56 @@
-Hello, I’m Toufeeque Ali 👋
+# Toufeeque Ali
 
-Data Scientist | Machine Learning Engineer
+Data Scientist · Machine Learning Engineer
 
-Welcome to my GitHub profile!
+---
 
-🚀 About Me
+I build systems that turn raw data into production-grade intelligence — from large-scale extraction pipelines to deep learning models deployed in real products. BS Computer Science, Sukkur IBA University.
 
-👨‍💻 I am a Data Scientist & Machine Learning Engineer focused on building scalable, data-driven solutions.
+Currently a Data Scraping & Automation Engineer at **Betacodes (Forbmax)**, where I design distributed scraping and processing systems. Previously a Data Solutions Engineer at **Sybrid**, building ETL pipelines and optimizing SQL-based data systems.
 
-🎓 BS Computer Science graduate from Sukkur IBA University with strong foundations in ML, Deep Learning, AI, and Statistics.
+---
 
-💼 Currently working as a Data Scraping & Automation Engineer at Betacodes (Forbmax), Islamabad.
+### Focus
 
-💼 Previously worked as a Data Solutions Engineer at Sybrid, building ETL pipelines and optimizing SQL workflows.
+- Designing fault-tolerant data pipelines and scraping infrastructure at scale
+- Applying deep learning to computer vision, audio, and NLP problems
+- Bridging data engineering and applied ML into deployable systems
 
-🌱 Passionate about applied machine learning, computer vision, audio analysis, and real-world AI systems.
+---
 
-🛠️ Technologies & Tools
+### Stack
 
-Languages: Python, C/C++, Java, SQL
+```
+Languages       Python · C/C++ · Java · SQL
+ML / DS         Scikit-learn · Pandas · NumPy
+Deep Learning   TensorFlow · CNNs · LSTMs · Vision Transformers
+Data Eng        Kafka · ETL Pipelines
+Databases       PostgreSQL · MySQL
+Automation      Playwright · Selenium · Scrapy
+Infra           Docker · Linux · Django
+```
 
-Machine Learning & Data Science: Scikit-learn, Pandas, NumPy, Statistics
+---
 
-Deep Learning & Computer Vision: CNNs, LSTMs, OpenCV, Vision Transformers (ViTs)
+### Selected Work
 
-Audio Processing: Librosa, TensorFlow
+**Segment-wise Deepfake Voice Detection**
+Deep learning system for detecting manipulated audio at the segment level rather than full-clip granularity.
 
-Data Engineering: Kafka, ETL Pipelines, PostgreSQL, MySQL
+**Water Flood Prediction System**
+Predictive model forecasting flood risk from environmental time-series data.
 
-Scraping & Automation: Playwright, Selenium, Scrapy
+**Automated Bullet Hole Detection**
+Computer vision pipeline for detecting bullet impacts in images using OpenCV.
 
-Operating Systems & IDEs: Linux, Docker, Colab, VS Code
+**Classroom Engagement Checker**
+Vision-based system for measuring classroom engagement from video input.
 
+**Huffman Text Compression**
+Lossless compression tool implementing efficient prefix-code encoding.
 
-🌐 Check Out My Work
+---
 
-🎧 Segment-wise Deepfake Voice Detection
+### Contact
 
-🌊 Water Flood Prediction System
-
-🔫 Automated Bullet Hole Detection (OpenCV)
-
-🏫 Classroom Engagement Checker App
-
-📄 Text File Compression (Huffman Coding)
+[LinkedIn](https://www.linkedin.com/in/toufeeque-ali-507b27258) · [ktoufeeque3@gmail.com])
